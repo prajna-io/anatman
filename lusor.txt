@@ -14,13 +14,14 @@ and a new beginning
 and follow the
 [breeze](https://music.apple.com/us/album/the-breeze-and-i/1443223791?i=1443224329)
 
-  [karcher]
+  [97ddbb2f]
     Enveloping / Royal Maiden > Gradual Advance / Marrying Woman
     Sprouting / The World Tree > Marrying Maiden
 
 for @karcher
 the "Gradual Advance / Marrying Woman" invokes
 
+  [97ddbb2f@53]
   the love of marriage
   and the emotions and jealousies it provokes
 
@@ -45,11 +46,19 @@ comments on the image as
 @merton cites
 @zhuang's story of the ox carver
 
-  [67197b1e@45]
+  [67197b1e#45]
   [Wen Hui](https://www.youtube.com/watch?v=EQmNsUJBQk4)’s cook
   is cutting up an ox
 
 the ivy covers the shed
+
+      [97ddbb2f@4]
+      a pig or jade (a treasure)
+      a cover of plants over the roof
+
+this plant is known specifically as
+      the royal maiden
+
 where the cook has set out to work
 
   Out goes a hand,
