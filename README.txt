@@ -417,3 +417,9 @@ than it appears"
 
 "well, if i am right,
 only You can save the world"
+
+  "and you think i can do this
+  if you teach me the Game?"
+
+i can't help but smile
+"yes"
