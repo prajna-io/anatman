@@ -421,5 +421,8 @@ only You can save the world"
   "and you think i can do this
   if you teach me the Game?"
 
-i can't help but smile
 "yes"
+  "when do We start?"
+
+i can't help but smile
+"now?"
