@@ -15,8 +15,8 @@ and one might say that the Forms are
 "a sort of approximation
 or a reflection
 
-"historically, the Forms began as an expression
-celebrating or honoring the Glass Bead Game"
+"historically, the Forms began as an expression of
+the Glass Bead Game"
 
   "why is it that I haven't heard of it before
   I thought I was ..."
@@ -30,7 +30,7 @@ Your knowledge of the Forms is impressive ... unprecedented"
 "and i do mean that ... You are unparalleled ...
 but the Guild closely guards the secrets of the Glass Bead Game
 
-even from Forms trainers
+"even from Forms trainers
 such as Yourself"
 
   "why is that?"
@@ -58,7 +58,10 @@ is like trying to hold the ocean in a basket woven of sea-grass"
   and Her eyes twinkle
 
 i take a sudden, strange pride
-in being the catalyst of this change
+in being the catalyst of Her transformation
+
+                    like i have
+                    painted a sunset in the sky
 
 "i have never been in a position
 to make such decisions ... until now."
@@ -73,7 +76,7 @@ gives me unlimited access and authority over the Archive
 has the whole history, the complete human knowledge of Yi
 
 "which includes every recorded
-Glass Bead Game.
+Glass Bead Game
 
 "every commentary on
 every Game
@@ -93,7 +96,7 @@ are sort of projections or approximations of those symmetries"
 i wave my hand to summon a 3d holo-image
 of the e8 lattice, slowly rotating
 
-  "Nu's art?"
+  "Nu's Yi art?"
   She recognizes immediately
 
 "yes,
@@ -117,8 +120,8 @@ unsure where to go
                     a strange sensation
 why am i unsure like this around Her?
 
-"the Forms were originally concieved
-as a sort of tribute to the Games
+"the Forms were originally performed
+as a tribute to the Games
 
 "a depiction in physical, bodily Form
 of the movements in the Game
@@ -126,8 +129,8 @@ of the movements in the Game
 "and it was quickly discovered that
 the Forms amplify the same processes
 
-"albeit
-fractionally
+"-- albeit
+fractionally --
 
 "that the Game does ...
 that is, it can also be used to channel Yi"
@@ -144,13 +147,13 @@ yes"
 "until
 You"
 
-  "until Me"
-  She steps back from the counter
+  "until Me?"
+  She steps back from the counter, obviously taken aback
 
 "yes,
 see, this device it ...
 
-"again, i must apologize ...
+"... again, i must apologize ...
 it was never my intention to intrude into Your privacy this way"
 
   "yes, and already forgiven ... please ..."
@@ -163,12 +166,12 @@ a clumsy way of describing things
 the Forms of Yi correlate with strong co-incidenting forces"
 
   She nods
-  She knows this, of course
+  She is a trainer, She knows this, of course
 
 i continue,
 "the Glass Bead Game was the first
 
-"Way of accurately depicting, measuring,
+"Way of accurately depicting -- measuring --
 the co-incident of change, of Yi
 
 "and it has far stronger correlation
@@ -183,7 +186,7 @@ the Forms"
   "but I thought that correlation could be
   recognized, categorized, and approximated
 
-  "but not quantified"
+  "but not objectively quantified"
   Her knowledge is solid
 
 "yes,
@@ -201,8 +204,8 @@ made them immediate"
                     it strikes me suddenly
                     how Nu has played the role of muse
 
-                    for these two
-                    Marie, and now Pati
+                    for these two -- first Marie,
+                    and now Her
 
 
 "rather than Yi being a force
@@ -224,7 +227,7 @@ i pause
 not many like digging this deep
 
 those who do
-work for me in the Guild
+work with me in the Guild
 
   but She signals willingness to dig
   with Her expressive Face
@@ -286,7 +289,7 @@ is not precisely defined -- and in some respect is random
 "and one might say that
 virtual pairs of entangled particles appear
 
-"one falling into the singularity
+"with one falling into the singularity
 and the other escaping"
 
   "might say?"
@@ -295,8 +298,8 @@ and the other escaping"
 "well, yes
 but maybe it is better to say that the probability waves
 
-"of these particles is such that
-entangled probability waves
+"of these entangled particles is such that
+their probability waves
 
 "are interrupted
 and it appears as if particles are emitted"
@@ -305,9 +308,9 @@ and it appears as if particles are emitted"
   random way?"
 
 "seemingly,
-but these particles have distinct wavelengths
+but these particles have distinct probability waveforms
 
-"signatures, so to speak
+"signatures, so to speak,
 of the singularities from which they arise
 
 "and these particles trace out
@@ -359,7 +362,7 @@ Yi"
 yes"
 
 i swipe my hand through the holo
-clearling the air between us
+clearing the air between us
 
 "and using Marie's breakthrough,
 my team and i were able to build an instrument to measure these coincidences
